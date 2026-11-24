@@ -1,3 +1,3 @@
 # projeto-integrado-3
 
-https://www.udemy.com/course/html-css-e-javascript-curso-01-criando-4-projetos/learn/lecture/36291336#overview
+https://www.udemy.com/course/32-conceitos-todo-dev-javascript-deveria-saber/learn/lecture/17666258#overview
